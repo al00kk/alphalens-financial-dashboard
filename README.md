@@ -1,5 +1,12 @@
 # ⚡ AlphaLens — Financial Research Platform
 
+![Dashboard Preview](screenshot.png)
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red?logo=streamlit)](https://streamlit.io)
+[![Yahoo Finance](https://img.shields.io/badge/Data-Yahoo%20Finance-purple)](https://finance.yahoo.com)
+
+
 A production-grade stock research and analysis dashboard built with Streamlit, Plotly, and Yahoo Finance.
 
 ---
